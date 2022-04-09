@@ -9,7 +9,7 @@
    <a href="https://www.linkedin.com/in/sakshi-arora-9b827b193/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>   
-   <a href="https://leetcode.com/sakshiarora200128/" target="_blank">
+   <a href="https://leetcode.com/sakshiarora20018/" target="_blank">
     <img alt="Leetcode" src="https://img.shields.io/badge/Leetcode-FE7A16?style=for-the-badge&logo=leetcode&logoColor=white">
   </a>  
   <a href="https://www.codechef.com/users/sakshi200128" target="_blank">
