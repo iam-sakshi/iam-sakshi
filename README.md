@@ -1,4 +1,4 @@
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 10px> </h1>
+<h1> Hello Fellow < Developers/ >!</h1>
 <p align='center'>
 </p>
 	<img align='right' src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif" width="400">
@@ -22,7 +22,7 @@
 - 💼 I'm an Engineering Student
 
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2> Skills </h2>
 
    <a href="https://www.cplusplus.com/" target="_blank">
     <img alt="C/C++" src="https://img.shields.io/badge/C++-FF4B4B?style=for-the-badge&logo=C++&logoColor=white">
