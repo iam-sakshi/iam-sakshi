@@ -16,7 +16,7 @@
   </a>
 
 - 👋 Hi, I’m Sakshi Arora
-- 💼 I'm an Engineering Student
+- 💼 I'm a Software Engineer at HSBC
 
 
 <h2> Skills </h2>
