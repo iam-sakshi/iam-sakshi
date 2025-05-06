@@ -20,43 +20,12 @@
 
 
 <h2> Skills </h2>
-
-   <a href="https://www.cplusplus.com/" target="_blank">
-    <img alt="C/C++" src="https://img.shields.io/badge/C++-FF4B4B?style=for-the-badge&logo=C++&logoColor=white">
-  </a>
-<a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  </a>
-
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  </a>
-
-   <a> Springboot
-<!--     <img alt="Scikit" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"> -->
-  </a>
-
-   <a href="https://numpy.org/" target="_blank">
-    <img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
-  </a>
-
-   <a href="https://pandas.pydata.org/" target="_blank">
-    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
-  </a>
- <BR>
-
-   <a href="https://plotly.com/" target="_blank">
-    <img alt="Plotly" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white">
-  </a>
-<a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sql&logoColor=white"></a>
-<a href="https://jupyter.org/" target="_blank">
-    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
-  </a>
-<a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></a>
-<a href="https://www.flask.com/"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></a>
-<a href="https://code.visualstudio.com/" target="_blank">
-    <img alt="VS CODE" src="https://img.shields.io/badge/VScode-3776AB?style=for-the-badge&logo=visual%studio%code&logoColor=white">
-  </a>
+<b>Backend Development:</b> Spring Boot, Spring Data, Spring Security, RESTful API  
+<b>Web Development:</b> ReactJS, JavaScript, HTML, CSS. 
+<b>Databases:</b> Oracle, MySQL. 
+<b>DevOps:</b> Docker, Kubernetes, PCF, Splunk, AppDynamics, Jenkins. 
+<b>Developer Tools:</b> Git, GitHub, Postman, Confluence, Nexus, Tomcat, Sonar, Maven, JUnit. 
+<b>Programming Skills:</b> Java, Object-Oriented Design, Microservices Architecture, Multithreading, Data Structures and Algorithms (DSA), Operating System, Networking
 
 <h2> Github Stats (Expand to View) <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
 
